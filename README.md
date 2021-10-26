@@ -10,4 +10,10 @@ Node
 Npm
 JavaScript
 
-##
+## License 
+
+MIT License
+
+# Acknowledgments
+
+The University of Washington Coding Bootcamp is providing me the knowledge and materials to create this project
